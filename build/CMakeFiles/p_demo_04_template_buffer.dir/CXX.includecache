@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/buffer.hpp
+vector
+-
+inttypes.h
+-
+
+/home/majid/Projects/p_demo_04_template_buffer/src/main.cpp
+buffer.hpp
+/home/majid/Projects/p_demo_04_template_buffer/src/buffer.hpp
+iostream
+-
+string
+-
+uchar.h
+-
+

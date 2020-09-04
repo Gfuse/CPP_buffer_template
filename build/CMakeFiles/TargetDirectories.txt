@@ -1,0 +1,3 @@
+/home/majid/Projects/p_demo_04_template_buffer/build/CMakeFiles/rebuild_cache.dir
+/home/majid/Projects/p_demo_04_template_buffer/build/CMakeFiles/p_demo_04_template_buffer.dir
+/home/majid/Projects/p_demo_04_template_buffer/build/CMakeFiles/edit_cache.dir
